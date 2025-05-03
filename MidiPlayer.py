@@ -1,6 +1,5 @@
 # Name: Player Midi
 # Author: Bocaletto Luca
-# Web Site: https://www.elektronoide.it
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import ttk
