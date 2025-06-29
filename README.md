@@ -46,3 +46,11 @@
 - Any errors during playback are managed and displayed in the application window.
 
 **MIDI Player** is a valuable tool for those who want to play MIDI files and have flexible playback control while offering a range of options for managing MIDI devices and volume control.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
